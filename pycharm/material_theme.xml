@@ -1,0 +1,12 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="version" value="2.5.0" />
+    <option name="selectedTheme" value="DARKER" />
+    <option name="highlightColor" value="80cbc4" />
+    <option name="isContrastMode" value="true" />
+    <option name="accentColor" value="80cbc4" />
+    <option name="settingsSelectedTab" value="3" />
+    <option name="userId" value="-6ff46b11:1641eb0615b:-8000" />
+    <option name="allowDataCollection" value="true" />
+  </component>
+</application>
